@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Alfonso Ortega, Julian Fiérrez, Aythami Morales, Zilong Wang, Marina de la Cruz, César Luis Alonso, Tony Ribeiro. Symbolic AI for XAI: evaluating LFIT inductive programming for explaining biases in machine learning"
 collection: publications
 category: manuscripts
 permalink: 
