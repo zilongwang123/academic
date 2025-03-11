@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Universidad Politécnica de Madrid, PhD in Formal Methods, 2025 (expected)
+* Universidad Autónoma de Madrid, M. Eng.in Formal Methods, 2020
+* University of Science and Technology of China, M.Sc.in Cryptography, 2020
+* University of Science and Technology of China, B.S.in Information Security, 2013 
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* IMDEA Software Instritute
+  * 2020.09-Present
+  * Research Assistant
+  * Implemented the security contracts with the RISCV model written in Sail. It can generate contract observation tracts by simulating the model
+  * Developed and maintained a tool called ‘LeaVe’ that can verify the security of a processor at RTL for a specific attacker w.r.t a given leakage contract. This work is supported by a grant from Intel Corporation.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Universidad Autónoma de Madrid
+  * 2019.09-2020.09
+  * Postgraduate Researcher
+  * Coded a demo system for static interval analysis with Python
+  * Researched the inductive logic programming approaches, and designed an explainable deep learning system for biometrics
+  * Mastered the basic machine learning algorithms and TensorFlow
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* University of Science and Technology of China
+  * 2013.06-2020.06
+  * Research Assistant
+  * Analyzed the security of RSA under the lattice cryptoanalysis
+  * Designed a lattice-base authenticated key exchange protocol, provided the provable security, and implemented it with python
+  * Designed a lattice-base password-based authenticated key exchange protocol and provided the provable security
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Institute of Software, Chinese Academy of Sciences
+  * 2014.06-2015.09
+  * Intern
+  * Participated in the project of creating a cryptanalysis platform
+  * Coded and tested the “security level of S-box” module of the platform
+
+* Institute of Software, Chinese Academy of Sciences
+  * 2013.01-2013.06
+  * Intern
+  * Analyzed the encryption methods of Word and PDF documents
+  * Developed a platform with C# cracking PDF documents with an improved dictionary attack
+
+* Institute of Information Engineering, Chinese Academy of Sciences
+  * 2012.06-2012.09
+  * Summer Undergraduate Researcher
+  * Improved and implemented the algorithm for attacking the WEP protocol
+  * Developed a program to recover the password of wireless networks
+
