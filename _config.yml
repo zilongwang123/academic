@@ -27,8 +27,8 @@ author:
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  # employer         : "Red Brick University"
-  # uri              : # URL
+  employer         : "Imdea Software Institute"
+  uri              : https://software.imdea.org/es/
   email            : "zilong.wang@imdea.org" 
 
   # # Academic websites
