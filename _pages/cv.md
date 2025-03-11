@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Universidad Politécnica de Madrid, PhD in Formal Methods, 2025 (expected)
-* Universidad Autónoma de Madrid, M. Eng.in Formal Methods, 2020
-* University of Science and Technology of China, M.Sc.in Cryptography, 2020
-* University of Science and Technology of China, B.S.in Information Security, 2013 
+* Universidad Autónoma de Madrid, M. Eng. in Formal Methods, 2020
+* University of Science and Technology of China, M.Sc. in Cryptography, 2020
+* University of Science and Technology of China, B.S. in Information Security, 2013 
 
 Research Experience
 ======
