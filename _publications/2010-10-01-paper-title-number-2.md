@@ -3,7 +3,7 @@ title: "Alfonso Ortega, Julian Fiérrez, Aythami Morales, Zilong Wang, Marina de
 collection: publications
 category: manuscripts
 permalink: 
-date: 2021
+date: 2021-01-01
 venue: 'Computers'
 paperurl: 'https://www.mdpi.com/2073-431X/10/11/154'
 ---
