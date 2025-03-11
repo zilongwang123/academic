@@ -3,6 +3,7 @@ title: "Alfonso Ortega, Julian Fierrez, Aythami Morales, Zilong Wang, Tony Ribei
 collection: publications
 category: conferences
 date: 2021-01-01
+excerpt: ''
 venue: 'WACV 2021'
 paperurl: 'https://biometrics.eps.uam.es/fierrez/files/2021_WACV_XAI_Alfonso.pdf'
 ---
