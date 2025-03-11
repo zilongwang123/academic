@@ -3,6 +3,7 @@ title: "Zilong Wang, Honggang Hu, Mengce Zheng, Jiehui Nan. Symmetric Lattice-Ba
 collection: publications
 category: conferences
 date: 2019-01-01
+excerpt: ''
 venue: 'FCS 2019'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-15-0818-9_7'
 ---
