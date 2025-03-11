@@ -1,14 +1,22 @@
 ---
-title: "Paper Title Number 3"
+title: "Alfonso Ortega, Julian Fierrez, Aythami Morales, Zilong Wang, Tony Ribeiro. Symbolic AI for XAI: Evaluating LFIT inductive programming for fair and explainable automatic recruitment"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: conferences
+date: 2021
+venue: 'WACV 2021'
+paperurl: 'https://biometrics.eps.uam.es/fierrez/files/2021_WACV_XAI_Alfonso.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Machine learning methods are growing in relevance for
+biometrics and personal information processing in domains
+such as forensics, e-health, recruitment, and e-learning. In
+these domains, white-box (human-readable) explanations of
+systems built on machine learning methods can become crucial. Inductive Logic Programming (ILP) is a subfield of
+symbolic AI aimed to automatically learn declarative theories about the process of data. Learning from Interpretation Transition (LFIT) is an ILP technique that can learn
+a propositional logic theory equivalent to a given blackbox system (under certain conditions). The present work
+takes a first step to a general methodology to incorporate
+accurate declarative explanations to classic machine learning by checking the viability of LFIT in a specific AI application scenario: fair recruitment based on an automatic
+tool generated with machine learning methods for ranking
+Curricula Vitae that incorporates soft biometric information (gender and ethnicity). We show the expressiveness of
+LFIT for this specific problem and propose a scheme that
+can be applicable to other domains.
