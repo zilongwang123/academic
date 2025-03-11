@@ -2,7 +2,7 @@
 title: "Zilong Wang, Honggang Hu, Mengce Zheng, Jiehui Nan. Symmetric Lattice-Based PAKE from Approximate Smooth Projective Hash Function and Reconciliation Mechanism"
 collection: publications
 category: conferences
-date: 2019
+date: 2019-01-01
 venue: 'FCS 2019'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-15-0818-9_7'
 ---
