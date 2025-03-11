@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 
 date: 2021
-venue: 'Journal 1'
+venue: 'Computers'
 paperurl: 'https://www.mdpi.com/2073-431X/10/11/154'
 ---
 
