@@ -9,15 +9,15 @@ venue: 'CCS 2023'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3576915.3623192'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
-
-title: "Paper Title Number 2"
-collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+Leakage contracts have recently been proposed as a new security
+abstraction at the Instruction Set Architecture (ISA) level. Leakage contracts aim to capture the information that processors leak
+through their microarchitectural implementations. However, so far,
+we lack a methodology to verify that a processor actually satisfies
+a given leakage contract.
+In this paper, we address this challenge by developing LeaVe,
+the first tool for verifying register-transfer-level (RTL) processor designs against ISA-level leakage contracts. To this end, we show how
+to decouple security and functional correctness concerns. LeaVe
+leverages this decoupling to make verification of contract satisfaction practical. To scale to realistic processor designs, LeaVe further
+employs inductive reasoning on relational abstractions. Using
+LeaVe, we precisely characterize the side-channel security guarantees of three open-source RISC-V processors, thereby obtaining
+the first proofs of contract satisfaction for RTL processor designs
