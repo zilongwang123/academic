@@ -22,7 +22,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-zw.png"
   name             : "Zilong Wang"
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
