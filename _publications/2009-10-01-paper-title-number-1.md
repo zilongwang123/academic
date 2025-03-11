@@ -6,7 +6,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2023
 venue: 'CCS 2023'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3576915.3623192'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
