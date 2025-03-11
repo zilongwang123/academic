@@ -1,1 +1,10 @@
+---
+title: "Mengce Zheng, Honggang Hu, Zilong Wang. Generalized cryptanalysis of RSA with small public exponent."
+collection: publications
+category: manuscripts
+date: 2016
+venue: 'SCIENCE CHINA Information Sciences. 2016.'
+paperurl: 'https://link.springer.com/article/10.1007/s11432-015-5325-7'
+---
 
+In this paper, we demonstrate that there exist weak keys in the RSA public-key cryptosystem with the public exponent e = N α ≤ N 0.5. In 1999, Boneh and Durfee showed that when α ≈ 1 and the private exponent d = N β < N 0.292, the system is insecure. Moreover, their attack is still effective for 0.5 < α < 1.875. We propose a generalized cryptanalytic method to attack the RSA cryptosystem with α ≤ 0.5. For  and e γc ≡ d (mod e c), when γ, β satisfy , we can perform cryptanalytic attacks based on the LLL algorithm. The basic idea is an application of Coppersmith’s techniques and we further adapt the technique of unravelled linearization, which leads to an optimized lattice. Our advantage is that we achieve new attacks on RSA with α ≤ 0.5 and consequently, there exist weak keys in RSA for most α.
