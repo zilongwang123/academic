@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 4"
+title: "Zilong Wang, Honggang Hu, Mengce Zheng, Jiehui Nan. Symmetric Lattice-Based PAKE from Approximate Smooth Projective Hash Function and Reconciliation Mechanism"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+date: 2019
+venue: 'FCS 2019'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-981-15-0818-9_7'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Password-based authenticated key exchange (PAKE) protocols allow two users who share only a short, low-entropy password to establish a consistent cryptographically strong session key. In 2009, Katz and Vaikuntanathan gave the first lattice-base PAKE from approximate smooth projective hash function (ASPHF) which is a variant of smooth projective hash function (SHPF). In 2017, Zhang and Yu introduced a two-round PAKE based on splittable PKEs. An error-correcting code (ECC) was used in these protocols to deal with the errors intrinsically in learning with errors (LWE) assumption, and the protocol is asymmetric as the session key is decided be just one user. In this paper, an error correcting technique called reconciliation mechanism, which was first introduced to construct a key exchange protocol from lattice, is adopted to construct more efficient lattice-based PAKEs with reduced computation complexity and communication complexity. Moreover, the new PAKEs are symmetric.
