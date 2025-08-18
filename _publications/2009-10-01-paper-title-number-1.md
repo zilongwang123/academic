@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'aaaa'
 date: 2023-01-01
-venue: 'CCS 2023 Distinguished Paper Award'
+venue: 'CCS 2023 \colour{red}{Distinguished Paper Award}'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3576915.3623192'
 ---
 
