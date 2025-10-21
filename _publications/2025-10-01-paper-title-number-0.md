@@ -5,7 +5,7 @@ category: conferences
 excerpt: ''
 date: 2025-01-01
 venue: 'CCS 2025'
-paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3576915.3623192'
+paperurl: 'https://arxiv.org/abs/2509.06509'
 ---
 
 Leakage contracts have recently been proposed as a new security
@@ -20,3 +20,4 @@ leverages this decoupling to make verification of contract satisfaction practica
 employs inductive reasoning on relational abstractions. Using
 LeaVe, we precisely characterize the side-channel security guarantees of three open-source RISC-V processors, thereby obtaining
 the first proofs of contract satisfaction for RTL processor designs
+
