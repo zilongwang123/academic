@@ -13,5 +13,5 @@ I'm a fourth year PhD student from [Universidad Politécnica de Madrid](https://
 
 Research Interests
 ======
-I used to working on designing lattice-based post-quantum cryotographic protocol.  
-My recent research focuses on reasoning and verifying the security at the hardware-software boundary, with a specific focus on microarchitectural attacks and defenses.
+I previously worked on the design of lattice-based post-quantum cryptographic protocols.
+My current research focuses on reasoning about and formally verifying security at the hardware–software boundary, with a particular emphasis on microarchitectural attacks and defenses.
