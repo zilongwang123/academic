@@ -9,7 +9,9 @@ redirect_from:
 
 Biography
 ======
-I'm a fourth year PhD student from [Universidad Politécnica de Madrid](https://www.upm.es/). I'm very fortunate to be supervised by [Professor Marco Guarnieri](https://mguarnieri.github.io/). I'm also working at [Imdea Software Institute](https://software.imdea.org/es/) as an assistant researcher. I got my master degree in Formal Methods from [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio) and another master degree in cryptography from [University of Science and Technology of China](https://en.ustc.edu.cn/).
+I am a fourth-year PhD student at the [Universidad Politécnica de Madrid](https://www.upm.es/), where I am fortunate to be supervised by Professor [Professor Marco Guarnieri](https://mguarnieri.github.io/).
+I am also an assistant researcher at the [Imdea Software Institute](https://software.imdea.org/es/).
+I hold a Master’s degree in Formal Methods from the [Universidad Autónoma de Madrid](https://www.uam.es/uam/inicio) and a second Master’s degree in Cryptography from the [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 Research Interests
 ======
