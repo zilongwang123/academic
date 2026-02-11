@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Universidad Politécnica de Madrid, PhD in Formal Methods, 2025 (expected)
+* Universidad Politécnica de Madrid, PhD in Formal Methods, 2026 (expected)
 * Universidad Autónoma de Madrid, M. Eng. in Formal Methods, 2020
 * University of Science and Technology of China, M.Sc. in Cryptography, 2020
 * University of Science and Technology of China, B.S. in Information Security, 2013 
@@ -21,8 +21,10 @@ Research Experience
 * IMDEA Software Instritute
   * 2020.09-Present
   * Research Assistant
-  * Implemented the security contracts with the RISCV model written in Sail. It can generate contract observation tracts by simulating the model
-  * Developed and maintained a tool called ‘LeaVe’ that can verify the security of a processor at RTL for a specific attacker w.r.t a given leakage contract. This work is supported by a grant from Intel Corporation.
+  * Applied formal methods to verify security at the hardware–software boundary. On a very high level, I formalize the security guarantee of processors with hardware-software contracts at register transfer level (RTL). On software side, programmers write secure programs according to the contract. On hardware side, we prove the contract satisfaction w.r.t the contract, processor and the attacker.
+  * Developed a tool called ‘LeaVe’ to verify contract satisfaction. We developed a Houdini-style invariant learning algorithm and implemented it in ‘LeaVe’. For a given contract, hardware and attacker, ‘LeaVe’ can unboundly check the contract satisfaction.
+  * Developed a tool called ‘LeaSyn’ to synthesize sound and precise leakage contracts. For a given processor implemented at RTL, ‘LeaSyn’ synthesizes a sound and precise leakage contract w.r.t the attacker. Here, ‘Sound’ means that all leaks at hardware level are captured while ‘precise’ means only actual leaks are exposed.
+
 
 * Universidad Autónoma de Madrid
   * 2019.09-2020.09
