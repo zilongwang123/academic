@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 excerpt: ''
 date: 2025-01-01
-venue: 'CCS 2025; IHSAA24 Honorable Mentions'
+venue: 'CCS 2025; IHSAA26 Honorable Mentions'
 paperurl: 'https://arxiv.org/pdf/2509.06509'
 ---
 
